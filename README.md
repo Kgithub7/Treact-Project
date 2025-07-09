@@ -1,1 +1,1 @@
-# Treact-Project
+A responsive site layout inspired by Treact.
